@@ -91,6 +91,7 @@
   "meta_not_found_cache_expire": "Meta not found cache expire",
   "meta_not_found_cache_expire-tips": "Negative cache expiration for missing meta records, in seconds. Set 0 to disable.",
   "ocr_api": "Ocr api",
+  "guangyapan_temp_dir": "GuangYaPan temp dir",
   "offline_download_task_threads_num": "Offline download task threads num",
   "offline_download_transfer_task_threads_num": "Offline download transfer task threads num",
   "package_download": "Package download",
